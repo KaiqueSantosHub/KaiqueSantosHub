@@ -3,10 +3,9 @@
 <table>
   <tr>
     <td>
-      <h3>🚀 Desenvolvedor em formação</h3>
-      <p>
+      <p style="font-size:18px;">
         <strong>
-          Desenvolvedor em formação, apaixonado por tecnologia, programação e aprendizado constante
+          Desenvolvedor em formação, apaixonado por tecnologia, programação e aprendizado constante 🚀
         </strong>
       </p>
     </td>
@@ -16,8 +15,7 @@
   </tr>
 </table>
 
-
-###
+<br>
 
 
 ---
@@ -62,6 +60,24 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaiqueSantosHub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueSantosHub&layout=compact&theme=dracula&cache_seconds=1800" />
+</div>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KaiqueSantosHub/KaiqueSantosHub/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KaiqueSantosHub/KaiqueSantosHub/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/KaiqueSantosHub/KaiqueSantosHub/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## 📬 Contato
 
 Vamos conversar? Me chama 👇
@@ -86,13 +102,3 @@ Vamos conversar? Me chama 👇
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
-
----
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaiqueSantosHub/KaiqueSantosHub/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaiqueSantosHub/KaiqueSantosHub/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KaiqueSantosHub/KaiqueSantosHub/output/pacman-contribution-graph.svg">
-</picture>
